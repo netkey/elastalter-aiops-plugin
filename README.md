@@ -1,4 +1,4 @@
-# elastalert-dingtalk-plugin
+# elastalert-aiops-plugin
 
 ## 安装
 ```
